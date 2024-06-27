@@ -1,7 +1,6 @@
-
 export const App = () => {
-
   return (
-    <div>OI</div>
+    <div className="bg-slate-500 w-dvw h-dvh">
+    </div>
   )
 }
