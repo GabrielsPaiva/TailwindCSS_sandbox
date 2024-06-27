@@ -13,8 +13,10 @@
     "@radix-ui/react-accordion": "^1.1.2",
     "chart.js": "^4.4.3",
     "chartjs-chart-graph": "^4.3.1",
+    "chartjs-plugin-dragdata": "^2.2.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "d3": "^7.9.0",
     "lucide-react": "^0.377.0",
     "masonry-layout": "^4.2.2",
     "react": "^18.2.0",
@@ -24,6 +26,8 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/d3": "^7.4.3",
     "@types/masonry-layout": "^4.2.7",
     "@types/node": "^20.12.8",
     "@types/react": "^18.2.64",
